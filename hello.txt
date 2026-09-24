@@ -1,0 +1,1 @@
+This is just a random .txt file I wrote in VS code because how else are you supposed to write simple text files
